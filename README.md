@@ -14,7 +14,7 @@ Documentations : (https://github.com/tainguyen0211/Wedding-Planner_Group03/tree/
 
 =======================================
 
-Published website : (https://github.com/tainguyen0211/eProject-Sem01_T1.2209.M0_WeddingPLanner_Group03_Coding/blob/main/Source%20Code/WeddingPlanner/Homepage.html/index.html)
+Published website : (https://github.com/tainguyen0211/eProject-Sem01_T1.2209.M0_WeddingPLanner_Group03_Coding/blob/main/Source%20Code/WeddingPlanner/Homepage.html)
 
 =======================================
 
