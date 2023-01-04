@@ -14,7 +14,7 @@ Documentations : (https://github.com/tainguyen0211/Wedding-Planner_Group03/tree/
 
 =======================================
 
-Published website : (https://tainguyen0211.github.io/Wedding-Planner_Group03/Source%20Code/WeddingPlanner/Homepgae.html)
+Published website : (https://tainguyen0211.github.io/Wedding-Planner_Group03/)
 
 =======================================
 
